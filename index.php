@@ -166,8 +166,6 @@
 							<br>
 							<a href="http://www.redfin.com/real-estate-agents/kennyt?show=reviews" target="_blank" class="image full"><img style="width: 100%;" src="images/redfin review.jpg" /></a>
 							<br>
-							<a href="http://www.trulia.com/profile/KennyTruong/" target="_blank" class="image full"><img style="width: 100%;" src="images/trulia review.jpg" /></a>
-							<br>
 							<a href="images/youtube.jpg" class="image full fancybox"><img style="width: 100%;" src="images/youtube.jpg" /></a>
 						</div>
 					</section>
